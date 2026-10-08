@@ -41,6 +41,9 @@ end-systole (ES), the pipeline:
 
 This is a consistency check, not a classifier.
 
+The full methods, results and discussion are described in the
+[project report](Docs/lv_segmentation_report.pdf).
+
 ## Results
 
 The pipeline was run on all 100 ACDC training patients. After visual quality
