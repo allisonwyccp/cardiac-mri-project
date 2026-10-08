@@ -140,8 +140,6 @@ Written to the `--output` folder:
 
 - `summary.csv`: one row per patient with EF, EDV index, wall thickness,
   Dice/Jaccard scores, coverage notes and group agreement
-- `summary_scatter.png`: EF vs. wall thickness, coloured by group, with the
-  clinical threshold lines
 - Per-patient figures: ED and ES overlays, the volume curve over the cardiac
   cycle, and the seed montages
 
